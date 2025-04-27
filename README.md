@@ -1,6 +1,8 @@
 **Là phiên bản chất lượng thấp của Game "Contra" nổi tiếng thế kỷ 20**
 
+- Cách cài game: 
 - Cách phá đảo game:
+  
   
 **Giới thiệu game**
 
