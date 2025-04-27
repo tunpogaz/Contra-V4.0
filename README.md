@@ -1,6 +1,8 @@
 **Là phiên bản chất lượng thấp của Game "Contra" nổi tiếng thế kỷ 20**
 
-- Cách cài game: 
+- Cách cài game:
+  + Các bạn có thể download thẳng và giải nén file zip, chạy tệp main.exe để trải nghiệm
+  + Hoặc các bạn có thể tham khảo theo link Drive sau: 
 - Cách phá đảo game:
   
   
