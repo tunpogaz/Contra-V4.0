@@ -5,6 +5,8 @@
 ![Bấm vào Download ZIP để tải game về, sau đó giải nén](https://files.catbox.moe/gcbs8d.png)
 
 Bấm vào Download ZIP để tải game về, sau đó giải nén.
+(Có thể trực tiếp tham khảo bằng link Drive sau: https://drive.google.com/file/d/1acLq8CCVjSi-CWxWWTlaTZTNsszwH-vJ/view?usp=sharing) 
+
 Sau đó, bấm vào main.exe là sẽ chơi được.
 
 ## III, Hướng dẫn chơi game
@@ -17,5 +19,8 @@ Trong game, người chơi thao tác như sau:
 - F để bắn
 - Up Arrow + F để bắn lên trời
 - Down Arrow để nhảy xuống.
+- P để dừng/ tiếp tục game.
+- M để tắt/ mở âm thanh.
 
 Mục tiêu của người chơi là giết hết số lượng địch có trong bản đồ. Nếu số lượng địch có trong bản đồ về 0, người chơi sẽ thắng.
+(Link Drive video về game: https://drive.google.com/file/d/1BnQFe78pfGUabyoohMP_lH_47mY8rIA4/view?usp=sharing)
