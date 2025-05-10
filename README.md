@@ -23,4 +23,4 @@ Trong game, người chơi thao tác như sau:
 - M để tắt/ mở âm thanh.
 
 Mục tiêu của người chơi là giết hết số lượng địch có trong bản đồ. Nếu số lượng địch có trong bản đồ về 0, người chơi sẽ thắng.
-(Link Drive video về game: https://drive.google.com/file/d/1BnQFe78pfGUabyoohMP_lH_47mY8rIA4/view?usp=sharing)
+(Link Drive video về game: https://drive.google.com/file/d/1GidBGBE_Xq7ejeSrh2wqwarKUftrWQly/view?usp=drive_link)
